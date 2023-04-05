@@ -3,7 +3,7 @@
 
 I am a student at Eastern Washington University. 
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsherman1)](https://github.com/rsherman1/github-readme-stats)
 
 <!--
 **rsherman1/rsherman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
