@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I am a student at Eastern Washington University. 
+
 <!--
 **rsherman1/rsherman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
