@@ -3,6 +3,12 @@
 
 I am a student at Eastern Washington University. 
 
+Links:
+
+LinkedIn: https://www.linkedin.com/in/robertksherman
+
+Codepen: 
+
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsherman1)](https://github.com/rsherman1/github-readme-stats)
 
 <!--
