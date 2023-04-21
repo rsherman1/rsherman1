@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a student in VCD program at Eastern Washington University. 
+I am a student in the VCD program at Eastern Washington University. 
 
 Links:
 
