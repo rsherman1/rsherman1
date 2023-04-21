@@ -3,6 +3,8 @@
 
 I am a student in the VCD program at Eastern Washington University. 
 
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/rsherman1)
+
 Links:
 
 LinkedIn: https://www.linkedin.com/in/robertksherman
