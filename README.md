@@ -4,7 +4,7 @@ I am a student in the VCD program at Eastern Washington University.
 
 ### Links:
 
-* [GitHub ](https://github.com/rsherman1)
+* [Portfolio Site ]()
 * [LinkedIn](https://www.linkedin.com/in/robertksherman/)
 * [Flickr](https://www.flickr.com/people/robertksherman/)
 
