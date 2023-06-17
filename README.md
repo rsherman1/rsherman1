@@ -1,6 +1,5 @@
 
-
-I am a student in the VCD program at Eastern Washington University. 
+I have recently completed a Bachelor of Design in Visual Communication Design at Eastern Washington University. I also have a certificate in User Experience Design. I am skilled in Adobe Suite, photography, and design thinking.
 
 ### Links:
 
