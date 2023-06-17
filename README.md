@@ -3,7 +3,6 @@ I have recently completed a Bachelor of Design in Visual Communication Design at
 
 ### Links:
 
-* [Portfolio Site ]()
 * [LinkedIn](https://www.linkedin.com/in/robertksherman/)
 * [Flickr](https://www.flickr.com/people/robertksherman/)
 
