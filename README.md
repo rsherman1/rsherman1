@@ -1,5 +1,5 @@
 
-I recently completed a Bachelor of Design in Visual Communication Design at Eastern Washington University. I also obtained a certificate in User Experience Design. I am skilled in Adobe Suite, photography, and design thinking.
+I recently completed a Bachelor of Design in Visual Communication Design at Eastern Washington University, along with a certificate in User Experience Design. I am skilled in Adobe Suite, photography, and design thinking.
 
 ### Links:
 
