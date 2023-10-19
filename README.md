@@ -4,7 +4,6 @@ I recently completed a Bachelor of Design in Visual Communication Design at East
 ### Links:
 
 * [LinkedIn](https://www.linkedin.com/in/robertksherman/)
-* [Flickr](https://www.flickr.com/people/robertksherman/)
 
 ### Skills:
 
